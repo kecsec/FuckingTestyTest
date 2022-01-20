@@ -4,8 +4,8 @@ Here is a small collection of my work
 
 ### Below will be links to projects I have worked on for fun!
 
-https://pornhub.edu </br>
-https://google.com
+- [Pornhub.edu](https://pornhub.edu) ♥️
+- [how to find anything](https://google.com)
 
 ```markdown
 I am a code block lmao.
