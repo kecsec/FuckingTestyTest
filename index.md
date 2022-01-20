@@ -11,6 +11,8 @@ https://google.com
 I am a code block lmao.
 ```
   <p>This will hopefully be a fucking image of my crying</p>
-  <img src=https://www.csun.edu/~nai16588/pics/dankolai.jpg>
+<p align="center">
+  <img src="https://www.csun.edu/~nai16588/pics/dankolai.jpg" alt="cri"/>
+</p>
  
 <p>Hopefully this will stay a basic page</p>
